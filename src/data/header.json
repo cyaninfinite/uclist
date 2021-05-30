@@ -1,0 +1,13 @@
+[
+  {"val":"Micro-controller"},
+  {"val":"Clock freq (MHz)"},
+  {"val":"Digital IO"},
+  {"val":"PWM"},
+  {"val":"Analog Input"},
+  {"val":"Flash Memory [Bootloader] (KB)"},
+  {"val":"SRAM (KB)"},
+  {"val":"EEPROM (KB)"},
+  {"val":"Operating Voltage"},
+  {"val":"Built-in LED Pin"},
+  {"val":"USB Interface"}
+]
